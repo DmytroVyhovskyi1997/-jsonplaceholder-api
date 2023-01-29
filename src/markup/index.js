@@ -11,7 +11,6 @@ export function markupUSers(users) {
     })
     .join("");
 }
-
 export function murkupByUserId({
   id,
   name,
